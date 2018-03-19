@@ -1,3 +1,3 @@
 document.getElementById("id123-control37592971").onfocus = function() {
-alert("Hello World");
+document.getElementById("id123-control37592971").style.backgroundColor = "red"
 }
