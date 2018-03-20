@@ -1,1 +1,3 @@
-document.getElementByID.("id123-control38012838").readOnly = True;
+window.onload = function() {
+    document.getElementById("id123-control37592984").readOnly = true;
+}
